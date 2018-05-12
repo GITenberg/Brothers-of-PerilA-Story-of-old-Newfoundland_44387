@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7525
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44387#Brothers-of-PerilA-Story-of-old-Newfoundland
 gutenberg_issued: '2013-12-08'
 gutenberg_type: Text
 identifiers:
